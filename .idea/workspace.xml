@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08940c11-6e5b-4659-b1eb-cf84915b6f5f" name="Default Changelist" comment="" />
+    <list default="true" id="08940c11-6e5b-4659-b1eb-cf84915b6f5f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/attribution.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/background.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,7 +19,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YO8i0aOkbnRRynRXIVMcUkVxGp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,12 +30,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/images" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -52,17 +69,49 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582802403215</updated>
-      <workItem from="1582802404778" duration="552000" />
+      <workItem from="1582802404778" duration="2434000" />
     </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1582803045223</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582803045223</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="434" y="98" key="CommitChangelistDialog2" timestamp="1582802992896">
+    <state x="434" y="98" key="CommitChangelistDialog2" timestamp="1582803044988">
       <screen x="0" y="22" width="1680" height="948" />
     </state>
-    <state x="434" y="98" key="CommitChangelistDialog2/0.22.1680.948@0.22.1680.948" timestamp="1582802992896" />
+    <state x="434" y="98" key="CommitChangelistDialog2/0.22.1680.948@0.22.1680.948" timestamp="1582803044988" />
+    <state width="1659" height="254" key="GridCell.Tab.0.bottom" timestamp="1582804129610">
+      <screen x="0" y="22" width="1680" height="948" />
+    </state>
+    <state width="1659" height="254" key="GridCell.Tab.0.bottom/0.22.1680.948@0.22.1680.948" timestamp="1582804129610" />
+    <state width="1659" height="254" key="GridCell.Tab.0.center" timestamp="1582804129610">
+      <screen x="0" y="22" width="1680" height="948" />
+    </state>
+    <state width="1659" height="254" key="GridCell.Tab.0.center/0.22.1680.948@0.22.1680.948" timestamp="1582804129610" />
+    <state width="1659" height="254" key="GridCell.Tab.0.left" timestamp="1582804129609">
+      <screen x="0" y="22" width="1680" height="948" />
+    </state>
+    <state width="1659" height="254" key="GridCell.Tab.0.left/0.22.1680.948@0.22.1680.948" timestamp="1582804129609" />
+    <state width="1659" height="254" key="GridCell.Tab.0.right" timestamp="1582804129610">
+      <screen x="0" y="22" width="1680" height="948" />
+    </state>
+    <state width="1659" height="254" key="GridCell.Tab.0.right/0.22.1680.948@0.22.1680.948" timestamp="1582804129610" />
+    <state x="440" y="236" key="Vcs.Push.Dialog.v2" timestamp="1582803048584">
+      <screen x="0" y="22" width="1680" height="948" />
+    </state>
+    <state x="440" y="236" key="Vcs.Push.Dialog.v2/0.22.1680.948@0.22.1680.948" timestamp="1582803048584" />
   </component>
 </project>
