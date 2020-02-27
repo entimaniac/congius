@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import {text} from './images/attribution'
 
 function App() {
     return (
@@ -10,6 +11,7 @@ function App() {
                     Turning your <span className="idea-color">idea</span> into your next <span
                     className="product-color">product</span>.
                 </p>
+                <div className="attribution-text">{text}</div>
             </header>
         </div>
     );

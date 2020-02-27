@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08940c11-6e5b-4659-b1eb-cf84915b6f5f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/images/attribution.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/attribution.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582802403215</updated>
-      <workItem from="1582802404778" duration="2701000" />
+      <workItem from="1582802404778" duration="3051000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1582803045223</created>
@@ -82,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582805466044</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update readme; deploy to github pages">
+      <created>1582805718922</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582805718922</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,13 +99,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
     <MESSAGE value="update background; add title; add tagline; play with colors and shading" />
-    <option name="LAST_COMMIT_MESSAGE" value="update background; add title; add tagline; play with colors and shading" />
+    <MESSAGE value="update readme; deploy to github pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="update readme; deploy to github pages" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="434" y="98" key="CommitChangelistDialog2" timestamp="1582805465823">
+    <state x="434" y="98" key="CommitChangelistDialog2" timestamp="1582805718688">
       <screen x="0" y="22" width="1680" height="948" />
     </state>
-    <state x="434" y="98" key="CommitChangelistDialog2/0.22.1680.948@0.22.1680.948" timestamp="1582805465823" />
+    <state x="434" y="98" key="CommitChangelistDialog2/0.22.1680.948@0.22.1680.948" timestamp="1582805718688" />
     <state width="1659" height="254" key="GridCell.Tab.0.bottom" timestamp="1582805504100">
       <screen x="0" y="22" width="1680" height="948" />
     </state>
@@ -114,9 +123,9 @@
       <screen x="0" y="22" width="1680" height="948" />
     </state>
     <state width="1659" height="254" key="GridCell.Tab.0.right/0.22.1680.948@0.22.1680.948" timestamp="1582805504099" />
-    <state x="440" y="236" key="Vcs.Push.Dialog.v2" timestamp="1582805467705">
+    <state x="440" y="236" key="Vcs.Push.Dialog.v2" timestamp="1582805720681">
       <screen x="0" y="22" width="1680" height="948" />
     </state>
-    <state x="440" y="236" key="Vcs.Push.Dialog.v2/0.22.1680.948@0.22.1680.948" timestamp="1582805467705" />
+    <state x="440" y="236" key="Vcs.Push.Dialog.v2/0.22.1680.948@0.22.1680.948" timestamp="1582805720681" />
   </component>
 </project>

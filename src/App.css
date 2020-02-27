@@ -24,3 +24,10 @@
 .product-color{
   color: #53a800;
 }
+
+.attribution-text {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    font-size: 12px;
+}
